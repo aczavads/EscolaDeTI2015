@@ -1,0 +1,12 @@
+ O volume na unidade C n∆o tem nome.
+ O N£mero de SÇrie do Volume Ç 6EC2-55EB
+
+ Pasta de C:\Users\Alunos\EscolaDeTI2015
+
+25/02/2015  19:44    <DIR>          .
+25/02/2015  19:44    <DIR>          ..
+25/02/2015  19:44                 0 novo.txt
+25/02/2015  19:43                34 README.md
+25/02/2015  19:43                31 teste.txt
+               3 arquivo(s)             65 bytes
+               2 pasta(s)   161.690.681.344 bytes dispon°veis
